@@ -1,2 +1,2 @@
 # Google-Analytics-Certs
-Case studies and reports of Google Data Analytics Capstone
+Personal case studies and reports of Google Data Analytics Capstone.
